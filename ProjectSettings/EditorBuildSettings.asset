@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GroupSelection.unity
+    guid: 9dd661c7ed2566b42874ff6b936aeab6
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Italy.unity
+    guid: db0157f4ec78fa54db8be8bc3347acfe
+  - enabled: 1
+    path: Assets/Scenes/SelectionF1.unity
+    guid: bb61eab06eb077f4b899f6208d185e86
+  - enabled: 1
+    path: Assets/Scenes/SelectionGT3.unity
+    guid: 5da77cb43583a0643bface385a36cd23
+  - enabled: 1
+    path: Assets/Scenes/SelectionTrack.unity
+    guid: 749f072ac1888e54c9de17b690dc29d2
+  - enabled: 0
+    path: Assets/Scenes/SelectionTyreGT3.unity
+    guid: ef49923ccbc1baa43bce69691413fd23
+  - enabled: 1
+    path: Assets/Scenes/SelectionTyre.unity
+    guid: b16cd95435eb77049bad4c6fcaf9348d
+  - enabled: 1
+    path: Assets/Scenes/Bahrein.unity
+    guid: 33059a74d1551914388909e3a9eb2e13
+  - enabled: 1
+    path: Assets/Scenes/SelectionRC.unity
+    guid: 8c381aa8a177f3a4fa5c9671a33fde06
+  - enabled: 0
+    path: Assets/Scenes/SelectionTyreRC.unity
+    guid: 79d05a76cf6b0c7459f4af3437ae56e3
+  - enabled: 1
+    path: Assets/Scenes/Austria.unity
+    guid: 722498fd486ad2c4da9c361a349f0270
+  - enabled: 0
+    path: Assets/Scenes/ModeSelection.unity
+    guid: 010239c7ba4c51a4ba7ce012d9853221
+  - enabled: 1
+    path: Assets/Scenes/Belgium.unity
+    guid: 991784d45a79369408240f068eae15b2
+  - enabled: 1
+    path: Assets/Scenes/BelgiumP2.unity
+    guid: 7e3e5db9c00ec9948b543d2bddb001a7
+  m_configObjects: {}

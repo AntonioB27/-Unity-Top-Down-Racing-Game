@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sand
+  - Checkpoint-1
+  - Checkpoint-2
+  - Checkpoint-3
+  - Pit-Stop
+  - GhostCar
+  - HUD
+  - LapCounter
+  - AI
+  - Node1
+  - Slipstream
+  - Stop
+  - Waypoint
+  - PositionText
+  - SideCamera
+  - GhostCar2
+  - EOTR
+  - EOTR_Position
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Track
+  - Car
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3156275685
+    locked: 0
+  - name: Road
+    uniqueID: 795352611
+    locked: 0
+  - name: SkidMarks
+    uniqueID: 3889642527
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

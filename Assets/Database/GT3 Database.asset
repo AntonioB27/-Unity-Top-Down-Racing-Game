@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0cdc343fa0ae342bf2172ce1e28797, type: 3}
+  m_Name: GT3 Database
+  m_EditorClassIdentifier: 
+  character:
+  - carName: Aston Martin GT
+    carSprite: {fileID: 21300000, guid: d8ec6bcdfe8338a46ada88b71b912e3e, type: 3}
+  - carName: Audi Sport
+    carSprite: {fileID: 21300000, guid: 2486e982a1ba6aa4f9a11ef990f83319, type: 3}
+  - carName: BMW Motorsport
+    carSprite: {fileID: 21300000, guid: fed6366beb4038042adc69d2f46a3015, type: 3}
+  - carName: Scuderia Ferrari
+    carSprite: {fileID: 21300000, guid: d5a8def56799e8145bb2e2aedd401616, type: 3}
+  - carName: McLaren Racing
+    carSprite: {fileID: 21300000, guid: 76be0030e66801846bd8a28230dfa07f, type: 3}
+  - carName: Mercedes AMG
+    carSprite: {fileID: 21300000, guid: 6607629ef902943409bedd3870eb2449, type: 3}
+  - carName: Porsche Sport
+    carSprite: {fileID: 21300000, guid: e95c0c669c99e384ab9443cceab00add, type: 3}
+  - carName: Red Bull Racing
+    carSprite: {fileID: 21300000, guid: 6fc8162bb815a294095af79973f202d8, type: 3}
+  - carName: Toyota GR
+    carSprite: {fileID: 21300000, guid: 14dd05147f1f30b4e8ecc8e1e0d65fbf, type: 3}
